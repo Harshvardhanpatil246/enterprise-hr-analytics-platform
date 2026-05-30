@@ -1,0 +1,10 @@
+column_name,null_percentage,table_name
+employee_id,0.0,stg_people_data
+gender,0.0,stg_people_data
+race,0.0,stg_people_data
+birth_date,0.0,stg_people_data
+education,2.37,stg_people_data
+location,0.0,stg_people_data
+location_city,0.0,stg_people_data
+marital_status,0.0,stg_people_data
+employment_status,0.0,stg_people_data
